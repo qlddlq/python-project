@@ -27,7 +27,7 @@ git clone https://github.com/qlddlq/python-projects.git
 ```
 2. Navigate to the calculator folder:
 ```bash
-cd python-projects/simple_calculator
+cd python-projects/simple-calculator
 ```
 3. Run the program:
 ```bash
