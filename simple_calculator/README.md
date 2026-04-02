@@ -23,7 +23,7 @@ It performs basic arithmetic operations and demonstrates core programming concep
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/qock1210-maker/python-projects.git
+git clone https://github.com/qlddlq/python-projects.git
 ```
 2. Navigate to the calculator folder:
 ```bash
